@@ -29,6 +29,6 @@ Feel free to reach out:
 
 - 📧 Email: [srivanimula1510@gmail.com](mailto:srivanimula1510@gmail.com)
 - 📞 Phone: [+91 8886669693](tel:+918886669693)
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 🔗 LinkedIn: [www.linkedin.com/in/srivani-mula-872234263](www.linkedin.com/in/srivani-mula-872234263)
 - 💻 GitHub: [github.com/Srivani-mula](https://github.com/Srivani-mula)
 
