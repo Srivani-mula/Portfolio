@@ -1,0 +1,125 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #111;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+.hero {
+  height: 100vh;
+  background-color: #111;
+  background-image: url('assets/background.jpg');
+  background-size: cover;
+  background-position: center;
+  color: white;
+  text-shadow: 1px 1px 3px black;
+}
+
+h1 span {
+  color: #0d6efd; /* Bootstrap primary */
+}
+
+.btn-outline-light {
+  border-color: #fff;
+  color: #fff;
+}
+
+.btn-outline-light:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+}
+
+.nav-link.active {
+  color: #0d6efd !important;
+}
+body {
+      font-family: 'Montserrat', sans-serif;
+      background-color: #f8f9fa;
+    }
+    .hero {
+      height: 100vh;
+      background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("assets/background.jpg") center/cover no-repeat;
+      color: white;
+      text-shadow: 1px 1px 2px black;
+    }
+    .card-img-top {
+      height: 200px;
+      object-fit: cover;
+    }
+    .card {
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      transition: transform 0.3s ease;
+    }
+    .card:hover {
+      transform: translateY(-5px);
+    }
+    .section-title {
+      font-weight: 700;
+      color: #343a40;
+      position: relative;
+      padding-bottom: 15px;
+    }
+    .section-title::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 80px;
+      height: 3px;
+      background: #0d6efd;
+    }
+    
+    /* Skill Progress Bars (from Template 2) */
+    .skill-item {
+      margin-bottom: 15px;
+    }
+    .skill-info {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 5px;
+    }
+    .progress {
+      height: 10px;
+      border-radius: 5px;
+    }
+    .progress-bar {
+      background-color: #0d6efd;
+    }
+    
+    /* Project Filter (from Template 2) */
+    .project-filter {
+      margin-bottom: 30px;
+    }
+    .filters {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      padding: 0;
+      list-style: none;
+    }
+    .filters li {
+      padding: 8px 20px;
+      margin: 0 5px;
+      background: #e9ecef;
+      border-radius: 20px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    .filters li:hover, .filters li.active {
+      background: #0d6efd;
+      color: white;
+    }
+    
+    /* Hover Zoom Effect */
+    .hover-zoom {
+      transition: transform 0.3s ease;
+    }
+    .hover-zoom:hover {
+      transform: scale(1.05);
+    }
